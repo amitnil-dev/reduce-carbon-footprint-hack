@@ -1,0 +1,4 @@
+# Collect data on energy usage, server usage, hardware consumption and other relevant factors
+energy_usage = [1000, 1500, 1700, 2000, 2100]
+server_usage = [50, 60, 70, 80, 90]
+hardware_consumption = [10, 20, 30, 40, 50]
